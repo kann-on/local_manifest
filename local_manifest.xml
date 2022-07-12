@@ -2,7 +2,7 @@
 <manifest>
 
 <!-- Trees -->
-<project path="device/motorola/river" name="kann-on/device_motorola_river.git" remote="github" revision="blaze-12.1" />
+<project path="device/motorola/river" name="kann-on/device_motorola_river.git" remote="github" revision="fluid-12.1" />
 <project path="device/motorola/sdm632-common" name="kann-on/device_motorola_sdm632-common.git" remote="github" revision="twelve" />
 <project path="vendor/motorola/river" name="kann-on/vendor_motorola_river.git" remote="github" revision="twelve" />
 <project path="vendor/motorola/sdm632-common" name="kann-on/vendor_motorola_sdm632-common.git" remote="github" revision="twelve" />
