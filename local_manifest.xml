@@ -2,10 +2,10 @@
 <manifest>
 
 <!-- Trees -->
-<project path="device/motorola/river" name="kann-on/device_motorola_river.git" remote="github" revision="fluid-12.1" />
-<project path="device/motorola/sdm632-common" name="kann-on/device_motorola_sdm632-common.git" remote="github" revision="twelve" />
-<project path="vendor/motorola/river" name="kann-on/vendor_motorola_river.git" remote="github" revision="twelve" />
-<project path="vendor/motorola/sdm632-common" name="kann-on/vendor_motorola_sdm632-common.git" remote="github" revision="twelve" />
-<project path="kernel/motorola/sdm632" name="kann-on/kernel_motorola_sdm632.git" remote="github" revision="twelve" />
+<project path="device/motorola/river" name="kann-on/android_device_motorola_river.git" remote="github" revision="lineage-18.1" />
+<project path="device/motorola/sdm632-common" name="kann-on/android_device_motorola_sdm632-common.git" remote="github" revision="lineage-18.1" />
+<project path="vendor/motorola/river" name="kann-on/vendor_motorola_river.git" remote="github" revision="eleven" />
+<project path="vendor/motorola/sdm632-common" name="kann-on/vendor_motorola_sdm632-common.git" remote="github" revision="eleven" />
+<project path="kernel/motorola/sdm632" name="kann-on/android_kernel_motorola_sdm632.git" remote="github" revision="lineage-18.1" />
 
 </manifest>
